@@ -15,9 +15,6 @@ JavaScript
 📂 Estrutura do Projeto
 A estrutura do projeto segue uma organização por categoria de testes, garantindo modularidade e fácil manutenção.
 
-bash
-Copiar
-Editar
 📂 cypress
  ├── 📂 e2e                    # Testes E2E organizados por categoria
  │   ├── 📂 autenticacao        # Testes de autenticação (login, registro, logout)
@@ -83,32 +80,32 @@ Caso precise alterar os dados de login, edite:
 }
 
 ✅ Casos de Teste Implementados:
-Registrar usuário
-Login do usuário com e-mail e senha corretos
-Login de usuário com e-mail e senha incorretos
-Sair do usuário
-Registrar usuário com e-mail existente
-Formulário de contato
-Verificar página de casos de teste
-Verificar todos os produtos e a página de detalhes do produto
-Pesquisar produto
-Verificar assinatura na página inicial
-Verificar assinatura na página do carrinho
-Adicionar produtos ao carrinho
-Verificar quantidade de produtos no carrinho
-Fazer pedido: Registrar durante a finalização da compra
-Fazer pedido: Registrar antes de finalizar a compra
-Fazer pedido: Efetuar login antes de finalizar a compra
-Remover produtos do carrinho
-Exibir produtos de categoria
-Visualizar e colocar produtos da marca no carrinho
-Pesquisar produtos e verificar carrinho após o login
-Adicionar avaliação ao produto
-Adicionar ao carrinho de itens recomendados
-Verificar detalhes do endereço na página de checkout
-Baixar fatura após o pedido de compra
-Verificar a rolagem para cima usando o botão "Seta" e a funcionalidade de rolagem para baixo
-Verificar a rolagem para cima sem o botão "Seta" e a funcionalidade de rolagem para baixo
+Registrar usuário;
+Login do usuário com e-mail e senha corretos;
+Login de usuário com e-mail e senha incorretos;
+Sair do usuário;
+Registrar usuário com e-mail existente;
+Formulário de contato;
+Verificar página de casos de teste;
+Verificar todos os produtos e a página de detalhes do produto;
+Pesquisar produto;
+Verificar assinatura na página inicial;
+Verificar assinatura na página do carrinho;
+Adicionar produtos ao carrinho;
+Verificar quantidade de produtos no carrinho;
+Fazer pedido: Registrar durante a finalização da compra;
+Fazer pedido: Registrar antes de finalizar a compra;
+Fazer pedido: Efetuar login antes de finalizar a compra;
+Remover produtos do carrinho;
+Exibir produtos de categoria;
+Visualizar e colocar produtos da marca no carrinho;
+Pesquisar produtos e verificar carrinho após o login;
+Adicionar avaliação ao produto;
+Adicionar ao carrinho de itens recomendados;
+Verificar detalhes do endereço na página de checkout;
+Baixar fatura após o pedido de compra;
+Verificar a rolagem para cima usando o botão "Seta" e a funcionalidade de rolagem para baixo;
+Verificar a rolagem para cima sem o botão "Seta" e a funcionalidade de rolagem para baixo;
 
 📜 Autor
 
